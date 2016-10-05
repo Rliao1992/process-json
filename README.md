@@ -1,2 +1,2 @@
-#Process-Json
-###A tool that process json files 
+#Process-JSON
+###A tool that processes json files 
