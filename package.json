@@ -1,6 +1,7 @@
 {
     "name": "process-json",
     "version": "0.0.1",
+    "description": "A tool that processes json files",
     "author": "Roger Liao",
     "main": "app.js",
     "dependencies": {
